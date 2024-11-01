@@ -1,0 +1,2 @@
+# python train_fully_supervised_2D.py --root_path ../data/DTU_Coupoin --exp DTU/supervised_unet_test --model "unet" --num_classes 2 --max_iterations 101 --batch_size 4 
+python train_fully_supervised_2D.py --root_path ../data/DTU_Coupoin --exp DTU/supervised_swin_unet_test --model "swin_unet" --num_classes 2 --max_iterations 101 --batch_size 4 

@@ -1,0 +1,1 @@
+python train_cross_teaching_between_cnn_transformer_2D_DTU.py --root_path ../data/DTU_Coupoin --exp DTU/Cross_teaching_between_cnn_transformer_2D_test --num_classes 2 --max_iterations 101 --batch_size 4 --labeled_bs 2
